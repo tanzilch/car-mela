@@ -1,0 +1,618 @@
+{
+  "navbar": {
+    "home": "Home",
+    "allVehicles": "All Vehicles",
+    "offers": "Offers",
+    "help": "Help",
+    "callNow": "Call now",
+    "followUs": "Follow Us",
+    "account": "Account",
+    "sunToThu": "Sun - Thu",
+    "businessHours": "9 AM - 6 PM",
+    "email": "info@garimela.com",
+    "login": "Login",
+    "search": "Search"
+  },
+  "aboutUs": {
+    "heading": "What people are saying about us"
+  },
+
+  "testimonials": {
+    "noDataFound": "No Data Found!",
+    "1": {
+      "description": "This product has exceeded my expectations! Its quality is excellent and it works perfectly. I highly recommend it for reliable performance.",
+      "name": "Mohammad Saiful Islam",
+      "designation": "Transport Business"
+    },
+    "2": {
+      "description": "This product has exceeded my expectations! Its quality is excellent and it works perfectly. I highly recommend it for reliable performance.",
+      "name": "Mohammad Saiful Islam",
+      "designation": "Transport Business"
+    },
+    "3": {
+      "description": "This product has exceeded my expectations! Its quality is excellent and it works perfectly. I highly recommend it for reliable performance.",
+      "name": "Mohammad Saiful Islam",
+      "designation": "Transport Business"
+    },
+    "4": {
+      "description": "This product has exceeded my expectations! Its quality is excellent and it works perfectly. I highly recommend it for reliable performance.",
+      "name": "Mohammad Saiful Islam",
+      "designation": "Transport Business"
+    },
+    "5": {
+      "description": "This product has exceeded my expectations! Its quality is excellent and it works perfectly. I highly recommend it for reliable performance.",
+      "name": "Mohammad Saiful Islam",
+      "designation": "Transport Business"
+    }
+  },
+  "bestDealer": {
+    "title": "The best dealers in your city",
+    "noData": "No Data Found!"
+  },
+  "dealerCard": {
+    "phone": "Phone",
+    "location": "Location"
+  },
+  "dealerData": {
+    "dealer1": {
+      "name": "Jonal Motors",
+      "phone": "+91 1234567890",
+      "address": "Red Cross Hospital Road, Paharpur, Dinajpur.",
+      "company": "Mahindra"
+    },
+    "dealer2": {
+      "name": "Jonal Motors",
+      "phone": "+91 1234567890",
+      "address": "Red Cross Hospital Road, Paharpur, Dinajpur.",
+      "company": "Mahindra"
+    },
+    "dealer3": {
+      "name": "Mridha Auto Mobiles",
+      "phone": "+91 1234567890",
+      "address": "Red Cross Hospital Road, Paharpur, Dinajpur.",
+      "company": "Mahindra"
+    },
+    "dealer4": {
+      "name": "Marine Motors",
+      "phone": "+91 1234567890",
+      "address": "Red Cross Hospital Road, Paharpur, Dinajpur.",
+      "company": "Aishar"
+    },
+    "dealer5": {
+      "name": "Bakul Motors",
+      "phone": "+91 1234567890",
+      "address": "Red Cross Hospital Road, Paharpur, Dinajpur.",
+      "company": "Aishar"
+    },
+    "dealer6": {
+      "name": "Tuba Motors",
+      "phone": "+91 1234567890",
+      "address": "Red Cross Hospital Road, Paharpur, Dinajpur.",
+      "company": "Mahindra"
+    },
+    "dealer7": {
+      "name": "Raihan Motors",
+      "phone": "+91 1234567890",
+      "address": "Red Cross Hospital Road, Paharpur, Dinajpur.",
+      "company": "Mahindra"
+    },
+    "dealer8": {
+      "name": "Samad Motors",
+      "phone": "+91 1234567890",
+      "address": "Red Cross Hospital Road, Paharpur, Dinajpur.",
+      "company": "Mahindra"
+    }
+  },
+  "certified": {
+    "heading": "Top-notch certified mechanics ensure excellent after-sales service.",
+    "description": "We guarantee top-notch after-sales service by certified mechanics, ensuring your vehicle remains in peak condition. This service is crucial for popular brands like Tata, Mahindra, and Dongfeng. Our skilled mechanics are committed to enhancing your vehicle's performance and reliability.",
+    "workshop": "Workshop",
+    "experienceDuration": "Experience Duration",
+    "sellableVehicles": "Sellable Vehicles",
+    "satisfiedCustomers": "Satisfied Customers"
+  },
+  "vehicletype": {
+    "vehicleTypes": "Type of Vehicles",
+    "noDataFound": "No Data Found!",
+    "bus": "Bus",
+    "truck": "Truck",
+    "pickup": "Pick-Up",
+    "threeWheeler": "3-Wheeler",
+    "humanHauler": "Human Hauler"
+  },
+  "account_info_data": {
+    "accountInfo": "Account Information",
+    "accountInfoItems": {
+      "accountInfo": "Account Info",
+      "offerList": "Offer List",
+      "purchaseList": "Purchase List",
+      "savedList": "Saved List",
+      "logOut": "Log Out"
+    },
+    "backButton": "Back",
+    "noDataFound": "No Data Found!"
+  },
+  "user_info": {
+    "name": "Name",
+    "business": "Business",
+    "transport": "Transport Business",
+    "phone": "Phone",
+    "address": "Address",
+    "total_offers": "Total Offers Made",
+    "purchased_vehicles": "Vehicles Purchased",
+    "edit_profile": "Edit Profile Information"
+  },
+  "faq": {
+    "question": "Do you have any questions?",
+    "contact": "Please contact our representative.",
+    "call_button": "16758",
+    "send_email": "Send an email",
+    "email": "info@garimela.com"
+  },
+  "accordion": {
+    "common_questions_title": "Common Questions and Answers",
+    "question1": "Question: I'm unable to bid online, what should I do?",
+    "answer1": "If you're having trouble bidding online, first check your internet connection. If the connection is fine, contact the site's customer service.",
+    "question2": "Question: I'm unable to bid online, what should I do?",
+    "answer2": "If you're having trouble bidding online, first check your internet connection. If the connection is fine, contact the site's customer service.",
+    "question3": "Question: I'm unable to bid online, what should I do?",
+    "answer3": "If you're having trouble bidding online, first check your internet connection. If the connection is fine, contact the site's customer service.",
+    "question4": "Question: I'm unable to bid online, what should I do?",
+    "answer4": "If you're having trouble bidding online, first check your internet connection. If the connection is fine, contact the site's customer service.",
+    "question5": "Question: I'm unable to bid online, what should I do?",
+    "answer5": "If you're having trouble bidding online, first check your internet connection. If the connection is fine, contact the site's customer service."
+  },
+  "singleview": {
+    "bookmark": "Bookmark",
+    "bookmarked": "Bookmarked",
+    "specification": "Specification",
+    "features": "Features",
+    "carDetails": "Car Details",
+    "questions": "Do you have any questions?",
+    "contactRep": "Please contact our representative.",
+    "listingDate": "Listing Date",
+    "yearOfManufacture": "Year of Manufacture",
+    "model": "Model",
+    "registrationYear": "Year of Registration",
+    "bodyType": "Body Type",
+    "registrationPapers": "Registration Papers",
+    "fuel": "Fuel",
+    "engineNumber": "Engine Number",
+    "depotLocation": "Depot Location",
+    "chasisNumber": "Chasis Number"
+  },
+  "footer": {
+    "customerSupport": "Customer Support",
+    "address": "Rangs Center, 427/A, Tejgaon Industrial Area, Tejgaon 1208, Dhaka Division, Bangladesh.",
+    "company": "Company",
+    "brand": "Brand",
+    "products": "Products",
+    "allRightsReserved": "All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsAndConditions": "Terms and Conditions",
+    "menu1": {
+      "Bus": "Bus",
+      "3-Wheeler": "3-Wheeler",
+      "Pickup": "Pickup",
+      "Human Hauler": "Human Hauler"
+    },
+    "menu2": {
+      "About": "About",
+      "FAQ": "FAQ",
+      "Careers": "Careers"
+    },
+    "menu3": {
+      "Mahindra": "Mahindra",
+      "Eicher": "Eicher",
+      "DongFeng": "DongFeng"
+    }
+  },
+  "hero": {
+    "cashOrInstallments": "Cash or Installments",
+    "buyYourDreamCar": "Buy your dream car at Garimela",
+    "searchPlaceholder": "Search for vehicles here"
+  },
+
+  "carDetailCardData": {
+    "noDataFound": "No Data Found!",
+    "1": {
+      "heading": "Mahindra",
+      "categories": {
+        "1": "3-Wheeler",
+        "2": "Pick-Up",
+        "3": "Truck",
+        "4": "Bus",
+        "5": "Human Hauler"
+      },
+      "vehiclesText": "Vehicles"
+    },
+    "2": {
+      "heading": "Eitcher",
+      "categories": {
+        "1": "3-Wheeler",
+        "2": "Pick-Up",
+        "3": "Bus",
+        "4": "Human Hauler"
+      },
+      "vehiclesText": "Vehicles",
+      "route":"/mahindra"
+    },
+    "3": {
+      "heading": "Dongfeng",
+      "categories": {
+        "1": "Truck",
+        "2": "Bus",
+        "3": "Human Hauler"
+      },
+      "vehiclesText": "Vehicles",
+      "route":"/mahindra"
+    }
+  },
+  "vehiclesCategoryPickUpData": {
+    "noDataFound": "No Data Found!",
+    "cashPrice": "Cash Price",
+  "installmentPrice": "Installment Price",
+  "model": "Model",
+    "1": {
+      "name": "Supro",
+      "img": "/assets/images/maximo.jpeg",
+      "cashPrice": "6,66,000৳",
+      "installmentPrice": "7,80,000৳",
+      "model": "2016"
+    },
+    "2": {
+      "name": "Maxximo Vx Hd",
+      "img": "/assets/images/maximo.jpeg",
+      "cashPrice": "4,20,000৳",
+      "installmentPrice": "6,40,000৳",
+      "model": "2014"
+    },
+    "3": {
+      "name": "Big Bolero",
+      "img": "/assets/images/maximo.jpeg",
+      "cashPrice": "7,66,000৳",
+      "installmentPrice": "8,50,000৳",
+      "model": "2017"
+    },
+    "4": {
+      "name": "Maxximo Vx Hd",
+      "img": "/assets/images/maximo.jpeg",
+      "cashPrice": "5,66,000৳",
+      "installmentPrice": "6,80,000৳",
+      "model": "2016"
+    }
+  },
+  "pageStatus": {
+    "underConstruction": "Page is Under construction"
+  },
+
+  "offerAccepted": {
+    "altText": "Offer Image",
+    "title": "The offer has been successfully accepted!",
+    "description": "Thank you for staying with the car fair. Our representative will contact you shortly.",
+    "buttonText": "Return to the Homepage"
+  },
+  "vehicleType": {
+    "bus": "Bus",
+    "truck": "Truck",
+    "pickup": "Pickup",
+    "threeWheeler": "Three-Wheeler",
+    "humanHauler": "Human Hauler"
+  },
+  "singleTimerSection": {
+    "idNumber": "ID number",
+    "timeLeft": "Time Left",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds",
+    "cashPrice": "Cash Price",
+    "installmentPrice": "Installment Price",
+    "makeOfferCall": "Make an offer by calling",
+    "contactRepresentative": "Contact our representative.",
+    "enterPhoneNumberPlaceHolder": "Enter your phone number",
+    "enterOfferAmountPlaceHolder": "Enter your offer amount",
+    "callNow": "Call Now",
+    "makeOfferOnline": "Make an offer online",
+    "selectPreference": "Select according to your preference",
+    "cashOption": "Interested in buying with cash",
+    "installmentsOption": "Interested in buying in installments",
+    "installmentsAlso": "Interested in buying in installments also",
+    "enterPhoneNumber": "Enter your phone number",
+    "enterOfferAmount": "Enter your offer amount",
+    "makeOffer": "Make an Offer",
+    "totalOffers": "Total offers so far:"
+  },
+  "singleSpecsSection": {
+    "specification": "Specification",
+    "yearOfManufacture": "Year of Manufacture",
+    "model": "Model",
+    "yearOfRegistration": "Year of Registration",
+    "bodyType": "Body Type",
+    "registrationPapers": "Registration Papers",
+    "fuel": "Fuel",
+    "engineNumber": "Engine Number",
+    "depotLocation": "Depot Location",
+    "chasisNumber": "Chasis Number",
+    "listingDate": "Listing Date",
+    "color": "Color",
+    "registrationNumber": "Registeration Number"
+  },
+  "singleSpecsValues": {
+    "1": {
+      "yearOfManufacture": "2022",
+      "name": "Big Bolero",
+      "yearOfRegistration": "2022",
+      "bodyType": "Steel Sheet",
+      "registrationPapers": "Available",
+      "fuel": "Petrol",
+      "engineNumber": "1234567890",
+      "registrationNumber": "DM-NA-22-2993",
+      "depotLocation": "Dhaka",
+      "chasisNumber": "GH1TRJE5512034",
+      "color": "Black"
+    },
+    "2": {
+      "yearOfManufacture": "2022",
+      "name": "Maxximo Vx Hd",
+      "yearOfRegistration": "2022",
+      "bodyType": "Steel Sheet",
+      "registrationPapers": "Available",
+      "color": "Black",
+      "registrationNumber": "DM-NA-22-2993",
+      "fuel": "Diesel Engine",
+      "engineNumber": "E16DJE475GHT",
+      "depotLocation": "Mymesingh",
+      "chasisNumber": "MA1CDJE2112034"
+    },
+    "3": {
+      "yearOfManufacture": "2022",
+      "name": "Supro",
+      "yearOfRegistration": "2022",
+      "bodyType": "Steel Sheet",
+      "registrationPapers": "Available",
+      "color": "Black",
+      "registrationNumber": "DM-NA-22-2993",
+      "fuel": "Diesel Engine",
+      "engineNumber": "E16DJE475GHT",
+      "depotLocation": "Mymesingh",
+      "chasisNumber": "MA1CDJE2112034"
+    }
+  },
+  "featureSection": {
+    "featuresHeading": "Features",
+    "features": {
+      "benefits": "Benefits",
+      "entertainment": "Entertainment",
+      "exterior": "Exterior",
+      "safety": "Safety",
+      "seating": "Seating",
+      "noFeaturesAvailable": "No features available",
+      "benefitsList": {
+        "0": "Adaptive Cruise Control",
+        "1": "Heated Seats",
+        "2": "Heated Steering Wheel"
+      },
+      "entertainmentList": {
+        "0": "Android Auto®",
+        "1": "Bluetooth®",
+        "2": "Homelink"
+      },
+      "exteriorList": {
+        "0": "Alloy Wheels"
+      },
+      "safetyList": {
+        "0": "Blind Spot Monitor",
+        "1": "Brake Assist",
+        "2": "Lane Departure Warning"
+      },
+      "seatingList": {
+        "0": "Leather Seats"
+      }
+    }
+  },
+
+  "singleCarDetail": {
+    "carDetailHeading": "Card Detail",
+    "carDetailDescription": "This car is a classic model from 1975. It has been with our family for many years, and its history is quite remarkable. It originally belonged to my grandfather, who bought it for a special occasion. Later, it passed down to my father, who created many memories with it. The car has been regularly serviced, and its engine is still in excellent condition. I want to sell this car because I'm looking to buy a new one. I hope you will appreciate it and become a part of its history."
+  },
+
+  "vehicleTypes": {
+    "Bus": "Bus",
+    "Truck": "Truck",
+    "Pickup": "Pickup",
+    "Three-Wheeler": "Three-Wheeler",
+    "Human Hauler": "Human Hauler"
+  },
+  "budgetFilter": {
+    "budgetRanges": {
+      "range1": "660,000৳ to 860,000৳",
+      "range2": "860,000৳ to 1,066,000৳",
+      "range3": "1,066,000৳ to 1,666,000৳",
+      "range4": "1,666,000৳ or more"
+    }
+  },
+  "fuelTypes": {
+    "Gas": "Gas",
+    "Hybrid": "Hybrid",
+    "Diesel": "Diesel",
+    "Hydrogen": "Hydrogen"
+  },
+  "colors": {
+    "Black": "Black",
+    "Silver": "Silver",
+    "Gray": "Gray",
+    "Red": "Red",
+    "Blue": "Blue",
+    "White": "White"
+  },
+
+  "budgetFilterData": {
+    "budgetRanges": {
+      "1": "660,000৳ to 860,000৳",
+      "2": "860,000৳ to 1,066,000৳",
+      "3": "1,066,000৳ to 1,666,000৳",
+      "4": "1,666,000৳ or more"
+    }
+  },
+
+  "vehicleFiltersSection": {
+    "vehicleFiltersText": {
+      "vehicleType": "Vehicle Type",
+      "budget": "Budget",
+      "fuelType": "Fuel Type",
+      "color": "Color",
+      "filters": "Filters",
+      "noDataFound": "No Data Found!",
+      "customBudget": "Custom Budget",
+      "minPlaceHolder": "Min Budget",
+      "maxPlaceHolder": "Min Budget",
+      "submitButtonText": "Apply Budget"
+    },
+    "buttons": {
+      "applyFilters": "Apply Filters",
+      "clearFilters": "Clear Filters"
+    },
+    "titles": {
+      "allVehicles": "All Vehicles"
+    }
+  },
+  "inquirySection": {
+    "questionHeading": "Do you have any questions?",
+    "contactHeading": "Please contact our representative."
+  },
+  "sameVehicles": {
+    "heading": "More vehicles of the same model"
+  },
+  "carNames": {
+    "Supro": "Supro",
+    "Maxximo Vx Hd": "Maxximo Vx Hd",
+    "Big Bolero": "Big Bolero"
+  },
+  "filterHeading": {
+    "allVehicles": {
+      "Mahindra": "All Mahindra Vehicles",
+      "DongFeng": "All DongFeng Vehicles",
+      "Eicher": "All Eicher Vehicles"
+    }
+  },
+  "PurchaseOffer": {
+    "labels": {
+      "purchasePrice": "Purchase Price",
+      "date": "Date",
+      "idNumber": "ID Number"
+    },
+    "alt": {
+      "noImage": "No Image Available"
+    }
+  },
+  "purchaseOfferData": {
+    "noDataFound": "No Data Found!",
+    "1": {
+      "title": "Mahindra Big Bolero",
+      "purchasePrice": "6,60,000৳",
+      "date": "12/3/25",
+      "offerId": "#8923"
+    },
+    "2": {
+      "title": "Mahindra Big Bolero",
+      "purchasePrice": "6,60,000৳",
+      "date": "12/3/25",
+      "offerId": "#8923"
+    },
+    "3": {
+      "title": "Mahindra Big Bolero",
+      "purchasePrice": "6,60,000৳",
+      "date": "12/3/25",
+      "offerId": "#8923"
+    },
+    "4": {
+      "title": "Mahindra Big Bolero",
+      "purchasePrice": "6,60,000৳",
+      "date": "12/3/25",
+      "offerId": "#8923"
+    }
+  },
+  "saveListData": {
+    "noDataFound": "No Data Found!",
+    "1": {
+      "title": "Mahindra Big Bolero",
+      "purchasePrice": "6,60,000৳",
+      "installmentPrice": "7,60,000৳"
+    },
+    "2": {
+      "title": "Supro",
+      "purchasePrice": "6,60,000৳",
+      "installmentPrice": "7,60,000৳"
+    },
+    "3": {
+      "title": "Supro",
+      "purchasePrice": "6,60,000৳",
+      "installmentPrice": "8,60,000৳"
+    },
+    "4": {
+      "title": "Mahindra Big Bolero",
+      "purchasePrice": "6,60,000৳",
+      "installmentPrice": "8,60,000৳"
+    }
+  },
+  "saveList": {
+    "labels": {
+      "cashPrice": "Cash Prize",
+      "makeOffer": "Make an Offer",
+      "btnText":"Make an Offer"
+    }
+  },
+  "deleteConfirmation": {
+    "title": "Are you sure you want to delete this item?",
+    "cancel": "Cancel",
+    "confirm": "Yes, I will delete it"
+  },
+  "offerList": {
+    "labels": {
+      "myOffer": "My Offer",
+      "highestOffer": "Highest Offer",
+      "date":"Date",
+      "idNumber":"ID Number"
+    }
+  },
+  "offerListData": {
+    "noDataFound": "No Data Found!",
+    "1": {
+      "title": "Mahindra Big Bolero",
+    "myOffer": "6,60,000৳",
+    "highestOffer": "৳ 789,500",
+    "date": "12/3/25",
+    "offerId": "#8923",
+    "status": "Ongoing"
+    },
+    "2": {
+      "title": "Mahindra Big Bolero",
+    "myOffer": "6,60,000৳",
+    "highestOffer": "৳ 789,500",
+    "date": "12/3/25",
+    "offerId": "#8923",
+    "status": "Ongoing"
+    },
+    "3": {
+      "title": "Mahindra Big Bolero",
+    "myOffer": "6,60,000৳",
+    "highestOffer": "৳ 789,500",
+    "date": "12/3/25",
+    "offerId": "#8923",
+    "status": "Ongoing"
+    }
+    
+  },
+  "vehicleCategory": {
+    "pickup": "Pickup",
+    "humanHauler": "Human Hauler",
+    "threeWheeler": "3-Wheeler",
+    "bus": "Bus",
+    "truck":"Truck"
+  },
+  "vehiclesCategory": {
+    "noDataFound": "No Data Found!"
+  },
+  "viewAll": "View All"
+}
